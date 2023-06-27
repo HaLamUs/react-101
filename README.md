@@ -5,6 +5,12 @@ This project is my REACTION to this playlist ⬇️
 
 https://www.youtube.com/watch?v=UVhIMwHDS7k&list=PLf16UKl7nR5ARPKtuI76E-ShyaiKH50IF
 
+## Playlist
+### Video #1
+<b> Learn the React useEffect Hook in 24 minutes (for beginners)<b/>
+
+[Video 1](./useEffect/README.md)
+
 ---
 ## Author
 
