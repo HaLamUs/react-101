@@ -16,6 +16,11 @@ https://www.youtube.com/watch?v=UVhIMwHDS7k&list=PLf16UKl7nR5ARPKtuI76E-ShyaiKH5
 
 [Video 2](./useState/README.md)
 
+### Video #3
+<b> Learn how to use Props in React in 19 minutes (for beginners)
+
+[Video 3](./useProps/README.md)
+
 ---
 ## Author
 
