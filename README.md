@@ -11,6 +11,11 @@ https://www.youtube.com/watch?v=UVhIMwHDS7k&list=PLf16UKl7nR5ARPKtuI76E-ShyaiKH5
 
 [Video 1](./useEffect/README.md)
 
+### Video #2
+<b> Learn to use State in React in 19 minutes (for beginners)<b/>
+
+[Video 2](./useState/README.md)
+
 ---
 ## Author
 
