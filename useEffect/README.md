@@ -1,4 +1,4 @@
-# react-101
+# useEffect
 
 [⬅ Back](../README.md)
 
