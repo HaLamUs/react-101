@@ -21,6 +21,11 @@ https://www.youtube.com/watch?v=UVhIMwHDS7k&list=PLf16UKl7nR5ARPKtuI76E-ShyaiKH5
 
 [Video 3](./useProps/README.md)
 
+### Video #4
+<b> Learn how to create Custom Hooks in React in 24 minutes (+ useRef Tutorial for beginners)
+
+[Video 4](./useHook/README.md)
+
 ---
 ## Author
 
