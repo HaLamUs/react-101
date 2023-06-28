@@ -29,8 +29,12 @@ https://www.youtube.com/watch?v=UVhIMwHDS7k&list=PLf16UKl7nR5ARPKtuI76E-ShyaiKH5
 ### Video #5
 <b> Class Components vs Functional Components in React (Which is better? - Beginner's Guide)
 
-
 [Video 5](./componentType/README.md)
+
+### Video #6
+<b> Don't use Hooks in REACT without knowing this...
+
+[Video 6](./hookPractices/README.md)
 
 ---
 ## Author
