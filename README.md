@@ -36,6 +36,11 @@ https://www.youtube.com/watch?v=UVhIMwHDS7k&list=PLf16UKl7nR5ARPKtuI76E-ShyaiKH5
 
 [Video 6](./hookPractices/README.md)
 
+### Video #7
+<b> You’ve been writing CSS wrong all this time...
+
+[Video 7](./redCSS/README.md)
+
 ---
 ## Author
 
