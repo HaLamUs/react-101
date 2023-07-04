@@ -41,6 +41,11 @@ https://www.youtube.com/watch?v=UVhIMwHDS7k&list=PLf16UKl7nR5ARPKtuI76E-ShyaiKH5
 
 [Video 7](./redCSS/README.md)
 
+### Video #8
+<b> The Easiest Way to Master CSS Flexbox...
+
+[Video 8](./redCSS/README.md)
+
 ---
 ## Author
 
