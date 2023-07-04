@@ -46,6 +46,12 @@ https://www.youtube.com/watch?v=UVhIMwHDS7k&list=PLf16UKl7nR5ARPKtuI76E-ShyaiKH5
 
 [Video 8](./redCSS/README.md)
 
+### Video #9
+<b> How to add Redux to ANY Next.js app in 15 minutes (For Beginners)
+
+[Video 9](./redux/README.md)
+
+
 ---
 ## Author
 
