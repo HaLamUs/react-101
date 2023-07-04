@@ -15,6 +15,8 @@ We gonna play a small game 🐸
 https://flexboxfroggy.com/
 
 ### justify-content - Whole container (n items)
+💚 <b>Horizontal layout</b>
+
 `justify-content` property defines how the browser distributes space between and around content items along the main-axis of a flex container
 
 - flex-start: Items align to the left side of the container.
@@ -31,6 +33,8 @@ https://flexboxfroggy.com/
 ```
 
 ### align-items - Whole container (n items)
+💚 <b>Vertical layout</b>
+
 https://developer.mozilla.org/en-US/docs/Web/CSS/align-items
 
 - flex-start: Items align to the top of the container.
@@ -51,6 +55,8 @@ Combine those things we have (x, y)
 
 ### flex-direction - Whole container (n items)
 https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction
+
+`display:flex` by default by row which mean 3 red, green, blue if red take entire row the green will be in next row 
 
 - row: Items are placed the same as the text direction.
 - row-reverse: Items are placed opposite to the text direction.
@@ -184,7 +190,7 @@ You can use align-content to set how multiple lines are spaced apart from each o
 #pond {
   display: flex;
   flex-wrap: wrap;
-align-content: flex-end
+  align-content: flex-end
 }
 ```
 
