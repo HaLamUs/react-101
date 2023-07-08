@@ -52,7 +52,7 @@ https://www.youtube.com/watch?v=UVhIMwHDS7k&list=PLf16UKl7nR5ARPKtuI76E-ShyaiKH5
 [Video 9](./redux/README.md)
 
 
----
+<p><img type="separator" height=8px width="100%" src="https://github.com/HaLamUs/nft-drop/blob/main/assets/aqua.png"></p>
 ## Author
 
 This repo was developed by [@lamha](https://github.com/HaLamUs). 
